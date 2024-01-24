@@ -1,0 +1,173 @@
+{
+  "problem": {
+    "jobs": [
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "stPwj9xLflBDrgbl",
+          "locationId": "BE-VLG:4367410",
+          "id": "stPwj9xLflBDrgbl",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "aOLny4boCXgNWA5g",
+          "locationId": "BE-VLG:2179033",
+          "id": "aOLny4boCXgNWA5g",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-0",
+        "type": "SHIPMENT",
+        "cargo": [
+          5,
+          28
+        ]
+      },
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "EZxdt9Uv7brI4fFx",
+          "locationId": "BE-VLG:20602484",
+          "id": "EZxdt9Uv7brI4fFx",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "iPWkvoIFmiRwVoJl",
+          "locationId": "BE-VLG:4367410",
+          "id": "iPWkvoIFmiRwVoJl",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-1",
+        "type": "SHIPMENT",
+        "cargo": [
+          10,
+          42
+        ]
+      },
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "10hEgY8XWZ2qcWnN",
+          "locationId": "BE-VLG:4268622",
+          "id": "10hEgY8XWZ2qcWnN",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "LQZbFftYyx3qMmZV",
+          "locationId": "BE-VLG:2179033",
+          "id": "LQZbFftYyx3qMmZV",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-2",
+        "type": "SHIPMENT",
+        "cargo": [
+          15,
+          85
+        ]
+      },
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "vTiw70eJGejccW8U",
+          "locationId": "BE-VLG:4367410",
+          "id": "vTiw70eJGejccW8U",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "iIjIfsTMMr6HKFZA",
+          "locationId": "BE-VLG:644608",
+          "id": "iIjIfsTMMr6HKFZA",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-3",
+        "type": "SHIPMENT",
+        "cargo": [
+          10,
+          42
+        ]
+      },
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "EWryJsPQPR6Ph3vm",
+          "locationId": "BE-VLG:2179033",
+          "id": "EWryJsPQPR6Ph3vm",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "vDjWNcjUvdDd2OWL",
+          "locationId": "BE-VLG:4268622",
+          "id": "vDjWNcjUvdDd2OWL",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-4",
+        "type": "SHIPMENT",
+        "cargo": [
+          10,
+          42
+        ]
+      }
+    ],
+    "vehicles": [
+      {
+        "breaks": [
+          {
+            "start": "2023-10-04 12:30",
+            "end": "2023-10-04 13:15"
+          }
+        ],
+        "startLocationId": "BE-VLG:5628223",
+        "shifts": [
+          {
+            "shiftEnd": "2023-10-04 17:45",
+            "shiftStart": "2023-10-04 08:00"
+          }
+        ],
+        "id": "vehicle-0",
+        "capacity": [
+          1200,
+          5500
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "lng": 5.1943914,
+        "id": "BE-VLG:5628223",
+        "lat": 50.9888092
+      },
+      {
+        "lng": 3.2062867,
+        "id": "BE-VLG:4268622",
+        "lat": 51.2246144
+      },
+      {
+        "lng": 4.3950361,
+        "id": "BE-VLG:20602484",
+        "lat": 51.2000359
+      },
+      {
+        "lng": 5.3853606,
+        "id": "BE-VLG:644608",
+        "lat": 50.9124841
+      },
+      {
+        "lng": 3.7055876,
+        "id": "BE-VLG:2179033",
+        "lat": 51.059464
+      },
+      {
+        "lng": 3.7471916,
+        "id": "BE-VLG:4367410",
+        "lat": 51.0013335
+      }
+    ],
+    "id": "Route-1"
+  },
+  "generatedWith": "Lucas-1",
+  "version": "v1"
+}

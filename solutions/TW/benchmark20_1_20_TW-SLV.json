@@ -1,0 +1,250 @@
+{
+  "id": "Route-1",
+  "routes": [
+    {
+      "vehicleId": "vehicle-0",
+      "date": [
+        2024,
+        1,
+        17
+      ],
+      "visits": [
+        {
+          "type": "START",
+          "jobId": "START",
+          "start": "2024-01-17T08:00:00",
+          "location": {
+            "latitude": 50.8436268,
+            "longitude": 4.1264393
+          },
+          "travelDistanceToNextLocation": 0
+        },
+        {
+          "type": "VISIT",
+          "orderId": "Visit0",
+          "arrival": "2024-01-17T08:00:00",
+          "finish": "2024-01-17T08:10:00",
+          "travelDistanceToNextLocation": 0,
+          "waitingTime": "PT0S",
+          "coordinates": {
+            "latitude": 50.8436268,
+            "longitude": 4.1264393
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "Visit9",
+          "arrival": "2024-01-17T09:32:00",
+          "finish": "2024-01-17T09:42:00",
+          "travelDistanceToNextLocation": 0,
+          "waitingTime": "PT0S",
+          "coordinates": {
+            "latitude": 50.7811792,
+            "longitude": 3.0637057
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "Visit3",
+          "arrival": "2024-01-17T10:15:00",
+          "finish": "2024-01-17T10:25:00",
+          "travelDistanceToNextLocation": 0,
+          "waitingTime": "PT0S",
+          "coordinates": {
+            "latitude": 50.9631669,
+            "longitude": 3.1095018
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "Visit1",
+          "arrival": "2024-01-17T11:07:00",
+          "finish": "2024-01-17T11:17:00",
+          "travelDistanceToNextLocation": 0,
+          "waitingTime": "PT0S",
+          "coordinates": {
+            "latitude": 51.2304905,
+            "longitude": 2.9145518
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "Visit17",
+          "arrival": "2024-01-17T11:36:00",
+          "finish": "2024-01-17T11:46:00",
+          "travelDistanceToNextLocation": 0,
+          "waitingTime": "PT0S",
+          "coordinates": {
+            "latitude": 51.1778611,
+            "longitude": 3.038525
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "Visit13",
+          "arrival": "2024-01-17T12:28:00",
+          "finish": "2024-01-17T12:38:00",
+          "travelDistanceToNextLocation": 0,
+          "waitingTime": "PT0S",
+          "coordinates": {
+            "latitude": 51.3376741,
+            "longitude": 3.280145
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "Visit7",
+          "arrival": "2024-01-17T13:19:00",
+          "finish": "2024-01-17T13:29:00",
+          "travelDistanceToNextLocation": 0,
+          "waitingTime": "PT0S",
+          "coordinates": {
+            "latitude": 51.1999554,
+            "longitude": 3.8173317
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "Visit5",
+          "arrival": "2024-01-17T14:00:00",
+          "finish": "2024-01-17T14:10:00",
+          "travelDistanceToNextLocation": 0,
+          "waitingTime": "PT0S",
+          "coordinates": {
+            "latitude": 51.2582412,
+            "longitude": 4.2777264
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "Visit19",
+          "arrival": "2024-01-17T14:30:00",
+          "finish": "2024-01-17T14:40:00",
+          "travelDistanceToNextLocation": 0,
+          "waitingTime": "PT0S",
+          "coordinates": {
+            "latitude": 51.1996293,
+            "longitude": 4.3981063
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "Visit10",
+          "arrival": "2024-01-17T15:31:00",
+          "finish": "2024-01-17T15:41:00",
+          "travelDistanceToNextLocation": 0,
+          "waitingTime": "PT0S",
+          "coordinates": {
+            "latitude": 51.0511177,
+            "longitude": 5.2240806
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "Visit2",
+          "arrival": "2024-01-17T15:59:00",
+          "finish": "2024-01-17T16:09:00",
+          "travelDistanceToNextLocation": 0,
+          "waitingTime": "PT0S",
+          "coordinates": {
+            "latitude": 51.0033919,
+            "longitude": 5.148404
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "Visit14",
+          "arrival": "2024-01-17T16:25:00",
+          "finish": "2024-01-17T16:35:00",
+          "travelDistanceToNextLocation": 0,
+          "waitingTime": "PT0S",
+          "coordinates": {
+            "latitude": 50.941055,
+            "longitude": 5.1665442
+          }
+        },
+        {
+          "type": "END",
+          "jobId": "END",
+          "arrival": "2024-01-17T17:45:00",
+          "location": {
+            "latitude": 50.8436268,
+            "longitude": 4.1264393
+          }
+        }
+      ]
+    }
+  ],
+  "unassignedJobs": [
+    {
+      "jobId": "Visit12",
+      "coordinates": {
+        "latitude": 51.0205766,
+        "longitude": 2.866091
+      }
+    },
+    {
+      "jobId": "Visit16",
+      "coordinates": {
+        "latitude": 51.1188706,
+        "longitude": 2.6458305
+      }
+    },
+    {
+      "jobId": "Visit6",
+      "coordinates": {
+        "latitude": 51.0833594,
+        "longitude": 4.7262369
+      }
+    },
+    {
+      "jobId": "Visit15",
+      "coordinates": {
+        "latitude": 51.19708,
+        "longitude": 4.4164219
+      }
+    },
+    {
+      "jobId": "Visit8",
+      "coordinates": {
+        "latitude": 51.1758453,
+        "longitude": 3.0210917
+      }
+    },
+    {
+      "jobId": "Visit18",
+      "coordinates": {
+        "latitude": 50.7560992,
+        "longitude": 4.6123325
+      }
+    },
+    {
+      "jobId": "Visit4",
+      "coordinates": {
+        "latitude": 51.2184949,
+        "longitude": 5.3719198
+      }
+    },
+    {
+      "jobId": "Visit11",
+      "coordinates": {
+        "latitude": 50.742986,
+        "longitude": 3.6025729
+      }
+    }
+  ],
+  "metaData": {
+    "jobId": "c630865c-e3b0-48ea-80a8-4f47543b2ac9",
+    "runtime": 35788,
+    "startTime": [
+      2024,
+      1,
+      17,
+      16,
+      19,
+      18,
+      858407000
+    ],
+    "status": "SOLVED"
+  }
+}

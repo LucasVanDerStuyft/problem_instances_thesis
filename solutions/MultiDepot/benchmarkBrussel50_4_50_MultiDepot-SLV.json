@@ -1,0 +1,1517 @@
+{
+  "id": "Route-1",
+  "routes": [
+    {
+      "vehicleId": "vehicle-1",
+      "date": [
+        2024,
+        1,
+        19
+      ],
+      "visits": [
+        {
+          "type": "START",
+          "jobId": "Route Start for vehicle-1",
+          "start": "2024-01-19T08:00:00",
+          "location": {
+            "latitude": 50.8514287,
+            "longitude": 4.3977929
+          },
+          "travelDistanceToNextLocation": 0
+        },
+        {
+          "type": "VISIT",
+          "orderId": "tBxjHZDAgWqkOlFH",
+          "arrival": "2024-01-19T08:11:00",
+          "finish": "2024-01-19T08:21:00",
+          "travelTimeFromLastLocation": "PT0S",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-9",
+          "cargoBefore": [
+            0,
+            0
+          ],
+          "cargoAfter": [
+            5,
+            28
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8482798,
+            "longitude": 4.4563793
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "uct7FbeWteBpMDWm",
+          "arrival": "2024-01-19T08:45:00",
+          "finish": "2024-01-19T08:55:00",
+          "travelTimeFromLastLocation": "PT11M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-9",
+          "cargoBefore": [
+            5,
+            28
+          ],
+          "cargoAfter": [
+            10,
+            33
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8312366,
+            "longitude": 4.332584
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "ZXBXTyvFG0CjgiNU",
+          "arrival": "2024-01-19T09:02:00",
+          "finish": "2024-01-19T09:12:00",
+          "travelTimeFromLastLocation": "PT24M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-41",
+          "cargoBefore": [
+            5,
+            5
+          ],
+          "cargoAfter": [
+            20,
+            90
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8149538,
+            "longitude": 4.3247068
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "9NBCZuzSDWhf5z5F",
+          "arrival": "2024-01-19T09:31:00",
+          "finish": "2024-01-19T09:41:00",
+          "travelTimeFromLastLocation": "PT7M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-41",
+          "cargoBefore": [
+            15,
+            85
+          ],
+          "cargoAfter": [
+            30,
+            100
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8438621,
+            "longitude": 4.3844841
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "tMFR3StJBND6VlPJ",
+          "arrival": "2024-01-19T09:58:00",
+          "finish": "2024-01-19T10:08:00",
+          "travelTimeFromLastLocation": "PT19M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-49",
+          "cargoBefore": [
+            15,
+            15
+          ],
+          "cargoAfter": [
+            30,
+            100
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8149538,
+            "longitude": 4.3247068
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "lvjfICoQelcYtncY",
+          "arrival": "2024-01-19T10:27:00",
+          "finish": "2024-01-19T10:37:00",
+          "travelTimeFromLastLocation": "PT17M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-49",
+          "cargoBefore": [
+            15,
+            85
+          ],
+          "cargoAfter": [
+            30,
+            100
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8438621,
+            "longitude": 4.3844841
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "bZyUP7V275Xyf1R6",
+          "arrival": "2024-01-19T10:54:00",
+          "finish": "2024-01-19T11:04:00",
+          "travelTimeFromLastLocation": "PT19M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-14",
+          "cargoBefore": [
+            15,
+            15
+          ],
+          "cargoAfter": [
+            30,
+            100
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8123049,
+            "longitude": 4.3336624
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "1JX6wKEF6FsMr4DT",
+          "arrival": "2024-01-19T11:25:00",
+          "finish": "2024-01-19T11:35:00",
+          "travelTimeFromLastLocation": "PT17M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-14",
+          "cargoBefore": [
+            15,
+            85
+          ],
+          "cargoAfter": [
+            30,
+            100
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8631453,
+            "longitude": 4.3211254
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "oE1AgjKqm4R8ktlw",
+          "arrival": "2024-01-19T11:46:00",
+          "finish": "2024-01-19T11:56:00",
+          "travelTimeFromLastLocation": "PT21M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-23",
+          "cargoBefore": [
+            15,
+            15
+          ],
+          "cargoAfter": [
+            30,
+            100
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8635682,
+            "longitude": 4.365386
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "y7Xa2DLwlklEUI9Z",
+          "arrival": "2024-01-19T12:14:00",
+          "finish": "2024-01-19T12:24:00",
+          "travelTimeFromLastLocation": "PT11M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-23",
+          "cargoBefore": [
+            15,
+            85
+          ],
+          "cargoAfter": [
+            30,
+            100
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8281011,
+            "longitude": 4.3965858
+          }
+        },
+        {
+          "type": "END",
+          "jobId": "Route End for vehicle-1",
+          "arrival": "2024-01-19T12:32:00",
+          "location": {
+            "latitude": 50.8514287,
+            "longitude": 4.3977929
+          }
+        }
+      ]
+    },
+    {
+      "vehicleId": "vehicle-3",
+      "date": [
+        2024,
+        1,
+        19
+      ],
+      "visits": [
+        {
+          "type": "START",
+          "jobId": "Route Start for vehicle-3",
+          "start": "2024-01-19T08:00:00",
+          "location": {
+            "latitude": 50.8514287,
+            "longitude": 4.3977929
+          },
+          "travelDistanceToNextLocation": 0
+        },
+        {
+          "type": "VISIT",
+          "orderId": "sv9qSKx6jTX5kXYV",
+          "arrival": "2024-01-19T08:18:00",
+          "finish": "2024-01-19T08:28:00",
+          "travelTimeFromLastLocation": "PT0S",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-1",
+          "cargoBefore": [
+            0,
+            0
+          ],
+          "cargoAfter": [
+            10,
+            42
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.7974364,
+            "longitude": 4.4012765
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "xOqZREFyKOICnEvb",
+          "arrival": "2024-01-19T08:33:00",
+          "finish": "2024-01-19T08:43:00",
+          "travelTimeFromLastLocation": "PT18M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-1",
+          "cargoBefore": [
+            10,
+            42
+          ],
+          "cargoAfter": [
+            20,
+            52
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.7995273,
+            "longitude": 4.4123282
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "Bs1wn6jObIDnPHuR",
+          "arrival": "2024-01-19T08:56:00",
+          "finish": "2024-01-19T09:06:00",
+          "travelTimeFromLastLocation": "PT5M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-10",
+          "cargoBefore": [
+            10,
+            10
+          ],
+          "cargoAfter": [
+            25,
+            95
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.826936,
+            "longitude": 4.3680281
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "dzKvi1HOChLAXh4N",
+          "arrival": "2024-01-19T09:19:00",
+          "finish": "2024-01-19T09:29:00",
+          "travelTimeFromLastLocation": "PT13M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-10",
+          "cargoBefore": [
+            15,
+            85
+          ],
+          "cargoAfter": [
+            30,
+            100
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8145787,
+            "longitude": 4.404084
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "Gj65iFmRbnXnjbWp",
+          "arrival": "2024-01-19T09:39:00",
+          "finish": "2024-01-19T09:49:00",
+          "travelTimeFromLastLocation": "PT13M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-37",
+          "cargoBefore": [
+            15,
+            15
+          ],
+          "cargoAfter": [
+            30,
+            100
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8278911,
+            "longitude": 4.4442622
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "jEBzRjccjVvFNGPn",
+          "arrival": "2024-01-19T10:01:00",
+          "finish": "2024-01-19T10:11:00",
+          "travelTimeFromLastLocation": "PT10M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-37",
+          "cargoBefore": [
+            15,
+            85
+          ],
+          "cargoAfter": [
+            30,
+            100
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.856833,
+            "longitude": 4.3902974
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "ULB7dpZkHxR2zLlf",
+          "arrival": "2024-01-19T10:23:00",
+          "finish": "2024-01-19T10:33:00",
+          "travelTimeFromLastLocation": "PT12M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-13",
+          "cargoBefore": [
+            15,
+            15
+          ],
+          "cargoAfter": [
+            30,
+            100
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8530951,
+            "longitude": 4.4336663
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "CdqmpdI35BEUHnnN",
+          "arrival": "2024-01-19T10:50:00",
+          "finish": "2024-01-19T11:00:00",
+          "travelTimeFromLastLocation": "PT12M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-6",
+          "cargoBefore": [
+            15,
+            85
+          ],
+          "cargoAfter": [
+            30,
+            170
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.826936,
+            "longitude": 4.3680281
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "mldtCcDrNApab46b",
+          "arrival": "2024-01-19T11:12:00",
+          "finish": "2024-01-19T11:22:00",
+          "travelTimeFromLastLocation": "PT17M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-6",
+          "cargoBefore": [
+            15,
+            85
+          ],
+          "cargoAfter": [
+            30,
+            100
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8635682,
+            "longitude": 4.365386
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "0lXhzH0aRhW59iUK",
+          "arrival": "2024-01-19T11:41:00",
+          "finish": "2024-01-19T11:51:00",
+          "travelTimeFromLastLocation": "PT12M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-13",
+          "cargoBefore": [
+            15,
+            15
+          ],
+          "cargoAfter": [
+            30,
+            30
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8677356,
+            "longitude": 4.2831064
+          }
+        },
+        {
+          "type": "END",
+          "jobId": "Route End for vehicle-3",
+          "arrival": "2024-01-19T12:14:00",
+          "location": {
+            "latitude": 50.8514287,
+            "longitude": 4.3977929
+          }
+        }
+      ]
+    },
+    {
+      "vehicleId": "vehicle-2",
+      "date": [
+        2024,
+        1,
+        19
+      ],
+      "visits": [
+        {
+          "type": "START",
+          "jobId": "Route Start for vehicle-2",
+          "start": "2024-01-19T08:00:00",
+          "location": {
+            "latitude": 50.8473589,
+            "longitude": 4.3506052
+          },
+          "travelDistanceToNextLocation": 0
+        },
+        {
+          "type": "VISIT",
+          "orderId": "mCxzi87oVwZRcXj8",
+          "arrival": "2024-01-19T08:20:00",
+          "finish": "2024-01-19T08:30:00",
+          "travelTimeFromLastLocation": "PT0S",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-24",
+          "cargoBefore": [
+            0,
+            0
+          ],
+          "cargoAfter": [
+            10,
+            42
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8369741,
+            "longitude": 4.2839996
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "UnxbjFpDDQKevt25",
+          "arrival": "2024-01-19T08:42:00",
+          "finish": "2024-01-19T08:52:00",
+          "travelTimeFromLastLocation": "PT20M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-24",
+          "cargoBefore": [
+            10,
+            42
+          ],
+          "cargoAfter": [
+            20,
+            52
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8631453,
+            "longitude": 4.3211254
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "OFKWZRVFc2hMJLIS",
+          "arrival": "2024-01-19T09:07:00",
+          "finish": "2024-01-19T09:17:00",
+          "travelTimeFromLastLocation": "PT12M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-26",
+          "cargoBefore": [
+            10,
+            10
+          ],
+          "cargoAfter": [
+            25,
+            95
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.826936,
+            "longitude": 4.3680281
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "WnkQcDs0r3t3WVu2",
+          "arrival": "2024-01-19T09:33:00",
+          "finish": "2024-01-19T09:43:00",
+          "travelTimeFromLastLocation": "PT15M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-26",
+          "cargoBefore": [
+            15,
+            85
+          ],
+          "cargoAfter": [
+            30,
+            100
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8560552,
+            "longitude": 4.307186
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "FPzd34c8DtjiehCz",
+          "arrival": "2024-01-19T09:48:00",
+          "finish": "2024-01-19T09:58:00",
+          "travelTimeFromLastLocation": "PT16M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-30",
+          "cargoBefore": [
+            15,
+            15
+          ],
+          "cargoAfter": [
+            30,
+            100
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8468867,
+            "longitude": 4.3088024
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "eXTHul9uH4cR3f9R",
+          "arrival": "2024-01-19T10:22:00",
+          "finish": "2024-01-19T10:32:00",
+          "travelTimeFromLastLocation": "PT5M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-30",
+          "cargoBefore": [
+            15,
+            85
+          ],
+          "cargoAfter": [
+            30,
+            100
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8031728,
+            "longitude": 4.3974645
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "fEJ4Qyjbh6brFjE3",
+          "arrival": "2024-01-19T10:43:00",
+          "finish": "2024-01-19T10:53:00",
+          "travelTimeFromLastLocation": "PT24M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-44",
+          "cargoBefore": [
+            15,
+            15
+          ],
+          "cargoAfter": [
+            30,
+            100
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8177729,
+            "longitude": 4.4203914
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "wbSK9FcPmyAWKUIL",
+          "arrival": "2024-01-19T11:16:00",
+          "finish": "2024-01-19T11:26:00",
+          "travelTimeFromLastLocation": "PT11M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-44",
+          "cargoBefore": [
+            15,
+            85
+          ],
+          "cargoAfter": [
+            30,
+            100
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.7946225,
+            "longitude": 4.3342853
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "GZdiE6AedpZDmf44",
+          "arrival": "2024-01-19T11:39:00",
+          "finish": "2024-01-19T11:49:00",
+          "travelTimeFromLastLocation": "PT23M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-31",
+          "cargoBefore": [
+            15,
+            15
+          ],
+          "cargoAfter": [
+            30,
+            100
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.826936,
+            "longitude": 4.3680281
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "T8uE6fL8ik34OaGE",
+          "arrival": "2024-01-19T12:02:00",
+          "finish": "2024-01-19T12:12:00",
+          "travelTimeFromLastLocation": "PT13M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-31",
+          "cargoBefore": [
+            15,
+            85
+          ],
+          "cargoAfter": [
+            30,
+            100
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8312366,
+            "longitude": 4.332584
+          }
+        },
+        {
+          "type": "END",
+          "jobId": "Route End for vehicle-2",
+          "arrival": "2024-01-19T12:25:00",
+          "location": {
+            "latitude": 50.8473589,
+            "longitude": 4.3506052
+          }
+        }
+      ]
+    },
+    {
+      "vehicleId": "vehicle-0",
+      "date": [
+        2024,
+        1,
+        19
+      ],
+      "visits": [
+        {
+          "type": "START",
+          "jobId": "Route Start for vehicle-0",
+          "start": "2024-01-19T08:00:00",
+          "location": {
+            "latitude": 50.8514287,
+            "longitude": 4.3977929
+          },
+          "travelDistanceToNextLocation": 0
+        },
+        {
+          "type": "VISIT",
+          "orderId": "QUow56e4zndjJDrO",
+          "arrival": "2024-01-19T08:05:00",
+          "finish": "2024-01-19T08:15:00",
+          "travelTimeFromLastLocation": "PT0S",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-46",
+          "cargoBefore": [
+            0,
+            0
+          ],
+          "cargoAfter": [
+            5,
+            28
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8438621,
+            "longitude": 4.3844841
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "i57zVsUn0YE1Hfuc",
+          "arrival": "2024-01-19T08:31:00",
+          "finish": "2024-01-19T08:41:00",
+          "travelTimeFromLastLocation": "PT5M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-46",
+          "cargoBefore": [
+            5,
+            28
+          ],
+          "cargoAfter": [
+            10,
+            33
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8559542,
+            "longitude": 4.3032947
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "X59jrEo4OGzWBPwn",
+          "arrival": "2024-01-19T08:58:00",
+          "finish": "2024-01-19T09:08:00",
+          "travelTimeFromLastLocation": "PT16M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-45",
+          "cargoBefore": [
+            5,
+            5
+          ],
+          "cargoAfter": [
+            20,
+            90
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8438621,
+            "longitude": 4.3844841
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "33poVJqVuPP0LTw2",
+          "arrival": "2024-01-19T09:16:00",
+          "finish": "2024-01-19T09:26:00",
+          "travelTimeFromLastLocation": "PT17M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-45",
+          "cargoBefore": [
+            15,
+            85
+          ],
+          "cargoAfter": [
+            30,
+            100
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8321678,
+            "longitude": 4.3727834
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "qNMx5BnEjnXCgS2d",
+          "arrival": "2024-01-19T09:29:00",
+          "finish": "2024-01-19T09:39:00",
+          "travelTimeFromLastLocation": "PT8M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-7",
+          "cargoBefore": [
+            15,
+            15
+          ],
+          "cargoAfter": [
+            30,
+            100
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8314307,
+            "longitude": 4.371009
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "y2V8RL0lhkhB8src",
+          "arrival": "2024-01-19T09:52:00",
+          "finish": "2024-01-19T10:02:00",
+          "travelTimeFromLastLocation": "PT3M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-7",
+          "cargoBefore": [
+            15,
+            85
+          ],
+          "cargoAfter": [
+            30,
+            100
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8123049,
+            "longitude": 4.3336624
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "raVnGdFYNHrfGWZ7",
+          "arrival": "2024-01-19T10:26:00",
+          "finish": "2024-01-19T10:36:00",
+          "travelTimeFromLastLocation": "PT13M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-11",
+          "cargoBefore": [
+            15,
+            15
+          ],
+          "cargoAfter": [
+            30,
+            100
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8482798,
+            "longitude": 4.4563793
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "ZmofqEBJ5gQo3Wjw",
+          "arrival": "2024-01-19T10:48:00",
+          "finish": "2024-01-19T10:58:00",
+          "travelTimeFromLastLocation": "PT24M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-11",
+          "cargoBefore": [
+            15,
+            85
+          ],
+          "cargoAfter": [
+            30,
+            100
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8281011,
+            "longitude": 4.3965858
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "7HY6FjiqDnoopCyI",
+          "arrival": "2024-01-19T11:06:00",
+          "finish": "2024-01-19T11:16:00",
+          "travelTimeFromLastLocation": "PT12M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-12",
+          "cargoBefore": [
+            15,
+            15
+          ],
+          "cargoAfter": [
+            30,
+            100
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.844291,
+            "longitude": 4.3977174
+          }
+        },
+        {
+          "type": "VISIT",
+          "orderId": "TaoKK5xBer5NzGlB",
+          "arrival": "2024-01-19T11:38:00",
+          "finish": "2024-01-19T11:48:00",
+          "travelTimeFromLastLocation": "PT8M",
+          "travelDistanceToNextLocation": 0,
+          "serviceTime": "PT10M",
+          "waitingTime": "PT0S",
+          "shipmentId": "Shipment-12",
+          "cargoBefore": [
+            15,
+            85
+          ],
+          "cargoAfter": [
+            30,
+            100
+          ],
+          "date": "2024-01-19",
+          "coordinates": {
+            "latitude": 50.8401692,
+            "longitude": 4.3042677
+          }
+        },
+        {
+          "type": "END",
+          "jobId": "Route End for vehicle-0",
+          "arrival": "2024-01-19T12:10:00",
+          "location": {
+            "latitude": 50.8514287,
+            "longitude": 4.3977929
+          }
+        }
+      ]
+    }
+  ],
+  "unassignedJobs": [
+    {
+      "jobId": "B0VPl3YsSiaCxAnn",
+      "coordinates": {
+        "latitude": 50.8317092,
+        "longitude": 4.3027461
+      }
+    },
+    {
+      "jobId": "P1GLweA7AHPiUsyM",
+      "coordinates": {
+        "latitude": 50.8309486,
+        "longitude": 4.4047211
+      }
+    },
+    {
+      "jobId": "Jh4AOt2r5epyWimx",
+      "coordinates": {
+        "latitude": 50.8298896,
+        "longitude": 4.3376382
+      }
+    },
+    {
+      "jobId": "ikUNqHMOAbzpxqEM",
+      "coordinates": {
+        "latitude": 50.8560552,
+        "longitude": 4.307186
+      }
+    },
+    {
+      "jobId": "R5gelYnx4gTlrSTW",
+      "coordinates": {
+        "latitude": 50.8438621,
+        "longitude": 4.3844841
+      }
+    },
+    {
+      "jobId": "diS7q9n69oR48qnZ",
+      "coordinates": {
+        "latitude": 50.8177729,
+        "longitude": 4.4203914
+      }
+    },
+    {
+      "jobId": "Isym2tzHXuI6N9fG",
+      "coordinates": {
+        "latitude": 50.874084,
+        "longitude": 4.3893395
+      }
+    },
+    {
+      "jobId": "OzEhDF0Yb8pPY9KP",
+      "coordinates": {
+        "latitude": 50.8298896,
+        "longitude": 4.3376382
+      }
+    },
+    {
+      "jobId": "MbUzQr4z7Xtrn5nG",
+      "coordinates": {
+        "latitude": 50.8251976,
+        "longitude": 4.3397559
+      }
+    },
+    {
+      "jobId": "QXsN7HFP7GOpbCXf",
+      "coordinates": {
+        "latitude": 50.8558872,
+        "longitude": 4.3989034
+      }
+    },
+    {
+      "jobId": "vlqnjYx05N66bkGK",
+      "coordinates": {
+        "latitude": 50.8752362,
+        "longitude": 4.3025293
+      }
+    },
+    {
+      "jobId": "mkGNkH917srKt6Hj",
+      "coordinates": {
+        "latitude": 50.8251976,
+        "longitude": 4.3397559
+      }
+    },
+    {
+      "jobId": "G3MTtJVA07ckrZDy",
+      "coordinates": {
+        "latitude": 50.8658992,
+        "longitude": 4.3296458
+      }
+    },
+    {
+      "jobId": "dpWvSi95yF0YRDPy",
+      "coordinates": {
+        "latitude": 50.8145787,
+        "longitude": 4.404084
+      }
+    },
+    {
+      "jobId": "IPJhxHj2mBV3GNv7",
+      "coordinates": {
+        "latitude": 50.826936,
+        "longitude": 4.3680281
+      }
+    },
+    {
+      "jobId": "E5dT6sgjfemOI7zD",
+      "coordinates": {
+        "latitude": 50.8658992,
+        "longitude": 4.3296458
+      }
+    },
+    {
+      "jobId": "Iflc1YcqCADpwoel",
+      "coordinates": {
+        "latitude": 50.8461722,
+        "longitude": 4.3500235
+      }
+    },
+    {
+      "jobId": "TMMWLddDzM5RFhv8",
+      "coordinates": {
+        "latitude": 50.8559542,
+        "longitude": 4.3032947
+      }
+    },
+    {
+      "jobId": "02M7qew7pesSUoQn",
+      "coordinates": {
+        "latitude": 50.7995273,
+        "longitude": 4.4123282
+      }
+    },
+    {
+      "jobId": "VKWesrT6LgP9XdVO",
+      "coordinates": {
+        "latitude": 50.8177729,
+        "longitude": 4.4203914
+      }
+    },
+    {
+      "jobId": "fJrMwseta7yNj70R",
+      "coordinates": {
+        "latitude": 50.856833,
+        "longitude": 4.3902974
+      }
+    },
+    {
+      "jobId": "bf5UnZy7OuHfeUcg",
+      "coordinates": {
+        "latitude": 50.8674271,
+        "longitude": 4.2921701
+      }
+    },
+    {
+      "jobId": "5acYwEMxD5hry7rx",
+      "coordinates": {
+        "latitude": 50.8752362,
+        "longitude": 4.3025293
+      }
+    },
+    {
+      "jobId": "valptLUSodzgqJff",
+      "coordinates": {
+        "latitude": 50.8278911,
+        "longitude": 4.4442622
+      }
+    },
+    {
+      "jobId": "i9GXYhzPKcAAQdiv",
+      "coordinates": {
+        "latitude": 50.8232748,
+        "longitude": 4.3445257
+      }
+    },
+    {
+      "jobId": "n2t5ebNsiDljyfeS",
+      "coordinates": {
+        "latitude": 50.8783414,
+        "longitude": 4.4039624
+      }
+    },
+    {
+      "jobId": "uTDVTUrYrtEBHdFA",
+      "coordinates": {
+        "latitude": 50.7974364,
+        "longitude": 4.4012765
+      }
+    },
+    {
+      "jobId": "yiWRVFgqlYCcHE9d",
+      "coordinates": {
+        "latitude": 50.8448729,
+        "longitude": 4.4276914
+      }
+    },
+    {
+      "jobId": "lC0PqrF8EaeLKLca",
+      "coordinates": {
+        "latitude": 50.8031728,
+        "longitude": 4.3974645
+      }
+    },
+    {
+      "jobId": "9Qcead19MAlU979U",
+      "coordinates": {
+        "latitude": 50.8674271,
+        "longitude": 4.2921701
+      }
+    },
+    {
+      "jobId": "Hr1XR0LNZe0Tw6BS",
+      "coordinates": {
+        "latitude": 50.8369741,
+        "longitude": 4.2839996
+      }
+    },
+    {
+      "jobId": "SIHSux2AXU949VWP",
+      "coordinates": {
+        "latitude": 50.8910031,
+        "longitude": 4.3828803
+      }
+    },
+    {
+      "jobId": "rcTz5evlzaWq2AXD",
+      "coordinates": {
+        "latitude": 50.8558872,
+        "longitude": 4.3989034
+      }
+    },
+    {
+      "jobId": "4fcgnPTX5KhOWBJI",
+      "coordinates": {
+        "latitude": 50.8560552,
+        "longitude": 4.307186
+      }
+    },
+    {
+      "jobId": "4wQWNHnnE7Hcfjls",
+      "coordinates": {
+        "latitude": 50.8468867,
+        "longitude": 4.3088024
+      }
+    },
+    {
+      "jobId": "QWFLw20B5nfSISfO",
+      "coordinates": {
+        "latitude": 50.8653266,
+        "longitude": 4.3389931
+      }
+    },
+    {
+      "jobId": "QRzBJs8nDAJ3kjmo",
+      "coordinates": {
+        "latitude": 50.8482798,
+        "longitude": 4.4563793
+      }
+    },
+    {
+      "jobId": "ATWEMpcMD9s5MyVh",
+      "coordinates": {
+        "latitude": 50.8145787,
+        "longitude": 4.404084
+      }
+    },
+    {
+      "jobId": "oOBr55uTpncZAhbg",
+      "coordinates": {
+        "latitude": 50.8151761,
+        "longitude": 4.3494252
+      }
+    },
+    {
+      "jobId": "vekMBLYZ9C2WTDfC",
+      "coordinates": {
+        "latitude": 50.8559542,
+        "longitude": 4.3032947
+      }
+    },
+    {
+      "jobId": "9yqnipDfhTJkTj4z",
+      "coordinates": {
+        "latitude": 50.8317092,
+        "longitude": 4.3027461
+      }
+    },
+    {
+      "jobId": "ErqvpGnJpuvk7o1d",
+      "coordinates": {
+        "latitude": 50.8401692,
+        "longitude": 4.3042677
+      }
+    },
+    {
+      "jobId": "XQieyXEKwxKM1Sse",
+      "coordinates": {
+        "latitude": 50.7974364,
+        "longitude": 4.4012765
+      }
+    },
+    {
+      "jobId": "1DuLv95jNpd9tXue",
+      "coordinates": {
+        "latitude": 50.8677356,
+        "longitude": 4.2831064
+      }
+    },
+    {
+      "jobId": "OmWab4kmG8xeBVRH",
+      "coordinates": {
+        "latitude": 50.8298896,
+        "longitude": 4.3376382
+      }
+    },
+    {
+      "jobId": "Dn3MQayUx6PQkz1L",
+      "coordinates": {
+        "latitude": 50.8674271,
+        "longitude": 4.2921701
+      }
+    },
+    {
+      "jobId": "zqGsSEIheqJK5PTx",
+      "coordinates": {
+        "latitude": 50.8560552,
+        "longitude": 4.307186
+      }
+    },
+    {
+      "jobId": "1Qxxh8ruP50Xdb8f",
+      "coordinates": {
+        "latitude": 50.8468867,
+        "longitude": 4.3088024
+      }
+    },
+    {
+      "jobId": "JDKOcsF19e4gzKJ7",
+      "coordinates": {
+        "latitude": 50.8482798,
+        "longitude": 4.4563793
+      }
+    },
+    {
+      "jobId": "y7M4a4RGlFlXl91I",
+      "coordinates": {
+        "latitude": 50.8674271,
+        "longitude": 4.2921701
+      }
+    },
+    {
+      "jobId": "cY0Wy5OVqH0r5wQE",
+      "coordinates": {
+        "latitude": 50.8361064,
+        "longitude": 4.4460217
+      }
+    },
+    {
+      "jobId": "8iOBoDbtaKvyqFl1",
+      "coordinates": {
+        "latitude": 50.8317092,
+        "longitude": 4.3027461
+      }
+    },
+    {
+      "jobId": "yQnL7rB8pHMSE2ET",
+      "coordinates": {
+        "latitude": 50.8343978,
+        "longitude": 4.32361
+      }
+    },
+    {
+      "jobId": "JEcmypREkQpYMHes",
+      "coordinates": {
+        "latitude": 50.8343978,
+        "longitude": 4.32361
+      }
+    },
+    {
+      "jobId": "14WQwAADG8lx2UsQ",
+      "coordinates": {
+        "latitude": 50.7995273,
+        "longitude": 4.4123282
+      }
+    },
+    {
+      "jobId": "r3Uqu0UHURCnlymV",
+      "coordinates": {
+        "latitude": 50.8151761,
+        "longitude": 4.3494252
+      }
+    },
+    {
+      "jobId": "vZ62yxNdurWYPlAk",
+      "coordinates": {
+        "latitude": 50.8061209,
+        "longitude": 4.4235989
+      }
+    },
+    {
+      "jobId": "u0LnpOFbwwZNJjcs",
+      "coordinates": {
+        "latitude": 50.8312366,
+        "longitude": 4.332584
+      }
+    },
+    {
+      "jobId": "wgWV7SLwrDjNSGda",
+      "coordinates": {
+        "latitude": 50.8448729,
+        "longitude": 4.4276914
+      }
+    },
+    {
+      "jobId": "PbjODc4QFVokdUg4",
+      "coordinates": {
+        "latitude": 50.8530951,
+        "longitude": 4.4336663
+      }
+    }
+  ],
+  "metaData": {
+    "jobId": "45563aa7-8afb-4b7d-b7a6-d14b1db6ae0e",
+    "runtime": 10533,
+    "startTime": [
+      2024,
+      1,
+      19,
+      18,
+      3,
+      13,
+      19537000
+    ],
+    "status": "SOLVED"
+  }
+}

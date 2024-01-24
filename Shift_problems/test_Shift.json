@@ -1,0 +1,90 @@
+{
+  "problem": {
+    "jobs": [
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:2424777",
+        "id": "Visit0",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:4454521",
+        "id": "Visit1",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:4810286",
+        "id": "Visit2",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:1332236",
+        "id": "Visit3",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:1685101",
+        "id": "Visit4",
+        "type": "SERVICE"
+      }
+    ],
+    "vehicles": [
+      {
+        "breaks": [
+          {
+            "start": "2023-10-04 12:30",
+            "end": "2023-10-04 13:15"
+          }
+        ],
+        "startLocationId": "BE-VLG:891671",
+        "shifts": [
+          {
+            "shiftEnd": "2023-10-04 17:45",
+            "shiftStart": "2023-10-04 08:00"
+          }
+        ],
+        "id": "vehicle-0",
+        "endLocationId": "BE-VLG:891671"
+      }
+    ],
+    "locations": [
+      {
+        "lng": 51.85,
+        "id": "BE-VLG:891671",
+        "lat": 3.46
+      },
+      {
+        "lng": 23.0,
+        "id": "BE-VLG:2424777",
+        "lat": 63.0
+      },
+      {
+        "lng": 78.0,
+        "id": "BE-VLG:4454521",
+        "lat": 42.0
+      },
+      {
+        "lng": 69.0,
+        "id": "BE-VLG:4810286",
+        "lat": 13.0
+      },
+      {
+        "lng": 45.0,
+        "id": "BE-VLG:1332236",
+        "lat": 36.0
+      },
+      {
+        "lng": 96.0,
+        "id": "BE-VLG:1685101",
+        "lat": 25.0
+      }
+    ],
+    "id": "Route-1"
+  },
+  "generatedWith": "Lucas-1",
+  "version": "v1"
+}

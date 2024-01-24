@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "generatedWith": "Bert 1.0",
+  "problem": {
+    "id": "empty-1",
+    "jobs": [],
+    "vehicles": [],
+    "locations": []
+  }
+}

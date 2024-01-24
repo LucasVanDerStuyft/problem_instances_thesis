@@ -1,0 +1,579 @@
+{
+  "problem": {
+    "jobs": [
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "VYmOw27L2PiTZ8n8",
+          "locationId": "BE-VLG:282963",
+          "id": "VYmOw27L2PiTZ8n8",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "XWIVwJ2tjifuUWXq",
+          "locationId": "BE-VLG:553638",
+          "id": "XWIVwJ2tjifuUWXq",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-0",
+        "type": "SHIPMENT",
+        "cargo": [
+          15,
+          85
+        ]
+      },
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "FPLJtmcMyz1P5WBK",
+          "locationId": "BE-VLG:553638",
+          "id": "FPLJtmcMyz1P5WBK",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "wmBHX4GHWNlHDnDa",
+          "locationId": "BE-VLG:666279",
+          "id": "wmBHX4GHWNlHDnDa",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-1",
+        "type": "SHIPMENT",
+        "cargo": [
+          5,
+          28
+        ]
+      },
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "fUR06tlUOL0hRuj4",
+          "locationId": "BE-VLG:398841",
+          "id": "fUR06tlUOL0hRuj4",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "qTtBKLKKmRS0xUtb",
+          "locationId": "BE-VLG:20793328",
+          "id": "qTtBKLKKmRS0xUtb",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-2",
+        "type": "SHIPMENT",
+        "cargo": [
+          5,
+          28
+        ]
+      },
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "yyPG3SdGbt7Betqd",
+          "locationId": "BE-VLG:398841",
+          "id": "yyPG3SdGbt7Betqd",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "xhXBd8B0WIZwul7r",
+          "locationId": "BE-VLG:282963",
+          "id": "xhXBd8B0WIZwul7r",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-3",
+        "type": "SHIPMENT",
+        "cargo": [
+          10,
+          42
+        ]
+      },
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "c7SsFXIsY04Edruc",
+          "locationId": "BE-VLG:1833163",
+          "id": "c7SsFXIsY04Edruc",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "9OrBSyg2JU47bG5a",
+          "locationId": "BE-VLG:398841",
+          "id": "9OrBSyg2JU47bG5a",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-4",
+        "type": "SHIPMENT",
+        "cargo": [
+          10,
+          42
+        ]
+      },
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "7ztZNLEoB4soKEln",
+          "locationId": "BE-VLG:1203844",
+          "id": "7ztZNLEoB4soKEln",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "PfItVcrE3a6YfZfz",
+          "locationId": "BE-VLG:5116018",
+          "id": "PfItVcrE3a6YfZfz",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-5",
+        "type": "SHIPMENT",
+        "cargo": [
+          5,
+          28
+        ]
+      },
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "WHybRBZyonbAMHgl",
+          "locationId": "BE-VLG:2446519",
+          "id": "WHybRBZyonbAMHgl",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "UQySvJqk90b6W253",
+          "locationId": "BE-VLG:1732433",
+          "id": "UQySvJqk90b6W253",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-6",
+        "type": "SHIPMENT",
+        "cargo": [
+          15,
+          85
+        ]
+      },
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "tgdWQc9zlEQvCNk4",
+          "locationId": "BE-VLG:666279",
+          "id": "tgdWQc9zlEQvCNk4",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "JOi4i8Job27GfaP7",
+          "locationId": "BE-VLG:5062626",
+          "id": "JOi4i8Job27GfaP7",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-7",
+        "type": "SHIPMENT",
+        "cargo": [
+          10,
+          42
+        ]
+      },
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "yLx6D3avyNw3axog",
+          "locationId": "BE-VLG:1203844",
+          "id": "yLx6D3avyNw3axog",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "oBEKwXy5E3OF8XF6",
+          "locationId": "BE-VLG:20743937",
+          "id": "oBEKwXy5E3OF8XF6",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-8",
+        "type": "SHIPMENT",
+        "cargo": [
+          15,
+          85
+        ]
+      },
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "TTRx8KW50Rgnz4I6",
+          "locationId": "BE-VLG:553638",
+          "id": "TTRx8KW50Rgnz4I6",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "K1Qa3hqY71efJZJx",
+          "locationId": "BE-VLG:5116018",
+          "id": "K1Qa3hqY71efJZJx",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-9",
+        "type": "SHIPMENT",
+        "cargo": [
+          10,
+          42
+        ]
+      },
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "yJBimW0WlFEjeBeH",
+          "locationId": "BE-VLG:20743937",
+          "id": "yJBimW0WlFEjeBeH",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "Tq15BZUD5JZlk0OV",
+          "locationId": "BE-VLG:1732433",
+          "id": "Tq15BZUD5JZlk0OV",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-10",
+        "type": "SHIPMENT",
+        "cargo": [
+          15,
+          85
+        ]
+      },
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "TEurzoK5D5RYLvRH",
+          "locationId": "BE-VLG:1732433",
+          "id": "TEurzoK5D5RYLvRH",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "zuyHYW5HCZecuED6",
+          "locationId": "BE-VLG:2446519",
+          "id": "zuyHYW5HCZecuED6",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-11",
+        "type": "SHIPMENT",
+        "cargo": [
+          10,
+          42
+        ]
+      },
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "uvGRjfDKuMW14G01",
+          "locationId": "BE-VLG:1732433",
+          "id": "uvGRjfDKuMW14G01",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "S7dWSoFtGe2SwGTx",
+          "locationId": "BE-VLG:553638",
+          "id": "S7dWSoFtGe2SwGTx",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-12",
+        "type": "SHIPMENT",
+        "cargo": [
+          10,
+          42
+        ]
+      },
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "T2HqiAFhRCL2o6Gv",
+          "locationId": "BE-VLG:2446519",
+          "id": "T2HqiAFhRCL2o6Gv",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "VP6KIDW7DmipGPzb",
+          "locationId": "BE-VLG:398841",
+          "id": "VP6KIDW7DmipGPzb",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-13",
+        "type": "SHIPMENT",
+        "cargo": [
+          15,
+          85
+        ]
+      },
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "XKHbKD7QcMAOJpdL",
+          "locationId": "BE-VLG:2088623",
+          "id": "XKHbKD7QcMAOJpdL",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "oOqA9h8FWyegM5fu",
+          "locationId": "BE-VLG:282963",
+          "id": "oOqA9h8FWyegM5fu",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-14",
+        "type": "SHIPMENT",
+        "cargo": [
+          15,
+          85
+        ]
+      },
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "4f8mimJg0CsyHknK",
+          "locationId": "BE-VLG:2088623",
+          "id": "4f8mimJg0CsyHknK",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "PdUIuU0Bw1WLHliw",
+          "locationId": "BE-VLG:5062626",
+          "id": "PdUIuU0Bw1WLHliw",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-15",
+        "type": "SHIPMENT",
+        "cargo": [
+          10,
+          42
+        ]
+      },
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "RpdmTRQDjzP4dSDh",
+          "locationId": "BE-VLG:1203844",
+          "id": "RpdmTRQDjzP4dSDh",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "pEkmfrRbb3ZIiVDr",
+          "locationId": "BE-VLG:1833163",
+          "id": "pEkmfrRbb3ZIiVDr",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-16",
+        "type": "SHIPMENT",
+        "cargo": [
+          15,
+          85
+        ]
+      },
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "fVQbvzB7N9dgVGgU",
+          "locationId": "BE-VLG:20743937",
+          "id": "fVQbvzB7N9dgVGgU",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "HUUrA5f9ziN8RN0U",
+          "locationId": "BE-VLG:2181830",
+          "id": "HUUrA5f9ziN8RN0U",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-17",
+        "type": "SHIPMENT",
+        "cargo": [
+          15,
+          85
+        ]
+      },
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "cwypADHbjmYopzeZ",
+          "locationId": "BE-VLG:2021375",
+          "id": "cwypADHbjmYopzeZ",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "08dXR9WcwJpuJM7x",
+          "locationId": "BE-VLG:2088623",
+          "id": "08dXR9WcwJpuJM7x",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-18",
+        "type": "SHIPMENT",
+        "cargo": [
+          5,
+          28
+        ]
+      },
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "12gje58fq0hmHZ0T",
+          "locationId": "BE-VLG:398841",
+          "id": "12gje58fq0hmHZ0T",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "dEElg7q8Wh2dcI1Y",
+          "locationId": "BE-VLG:2088623",
+          "id": "dEElg7q8Wh2dcI1Y",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-19",
+        "type": "SHIPMENT",
+        "cargo": [
+          5,
+          28
+        ]
+      }
+    ],
+    "vehicles": [
+      {
+        "breaks": [
+          {
+            "start": "2023-10-04 12:30",
+            "end": "2023-10-04 13:15"
+          }
+        ],
+        "startLocationId": "BE-VLG:1006642",
+        "shifts": [
+          {
+            "shiftEnd": "2023-10-04 17:45",
+            "shiftStart": "2023-10-04 08:00"
+          }
+        ],
+        "id": "vehicle-0",
+        "endLocationId": "BE-VLG:1006642",
+        "capacity": [
+          1200,
+          5500
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "lng": 5.2757131,
+        "id": "BE-VLG:1006642",
+        "lat": 50.976143
+      },
+      {
+        "lng": 4.0732432,
+        "id": "BE-VLG:2446519",
+        "lat": 50.9410788
+      },
+      {
+        "lng": 3.2376885,
+        "id": "BE-VLG:666279",
+        "lat": 51.1547826
+      },
+      {
+        "lng": 4.0657521,
+        "id": "BE-VLG:398841",
+        "lat": 50.8447693
+      },
+      {
+        "lng": 2.9163035,
+        "id": "BE-VLG:20743937",
+        "lat": 51.2341252
+      },
+      {
+        "lng": 4.8404274,
+        "id": "BE-VLG:5062626",
+        "lat": 51.1412371
+      },
+      {
+        "lng": 4.4639151,
+        "id": "BE-VLG:2181830",
+        "lat": 50.8882931
+      },
+      {
+        "lng": 4.7082736,
+        "id": "BE-VLG:5116018",
+        "lat": 50.8806318
+      },
+      {
+        "lng": 3.7654501,
+        "id": "BE-VLG:222748",
+        "lat": 51.0970996
+      },
+      {
+        "lng": 2.7585215,
+        "id": "BE-VLG:1203844",
+        "lat": 51.1362476
+      },
+      {
+        "lng": 4.7119689,
+        "id": "BE-VLG:2088623",
+        "lat": 50.8237839
+      },
+      {
+        "lng": 5.0083971,
+        "id": "BE-VLG:553638",
+        "lat": 51.3127433
+      },
+      {
+        "lng": 4.4296645,
+        "id": "BE-VLG:1833163",
+        "lat": 51.2532697
+      },
+      {
+        "lng": 4.3492431,
+        "id": "BE-VLG:20793328",
+        "lat": 51.0752673
+      },
+      {
+        "lng": 5.2119476,
+        "id": "BE-VLG:2021375",
+        "lat": 51.0639392
+      },
+      {
+        "lng": 4.7226733,
+        "id": "BE-VLG:4942819",
+        "lat": 51.0790495
+      },
+      {
+        "lng": 4.2922918,
+        "id": "BE-VLG:3113746",
+        "lat": 51.1337502
+      },
+      {
+        "lng": 4.0791715,
+        "id": "BE-VLG:282963",
+        "lat": 51.0668434
+      },
+      {
+        "lng": 4.526093,
+        "id": "BE-VLG:4908686",
+        "lat": 51.1985359
+      },
+      {
+        "lng": 3.8488761,
+        "id": "BE-VLG:1732433",
+        "lat": 51.0508973
+      },
+      {
+        "lng": 2.7069534,
+        "id": "BE-VLG:1064208",
+        "lat": 51.1411571
+      }
+    ],
+    "id": "Route-1"
+  },
+  "generatedWith": "Lucas-1",
+  "version": "v1"
+}

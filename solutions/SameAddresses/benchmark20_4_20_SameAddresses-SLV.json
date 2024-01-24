@@ -1,0 +1,330 @@
+{
+  "id": "Route-1",
+  "routes": [
+    {
+      "vehicleId": "vehicle-3",
+      "date": [
+        2024,
+        1,
+        19
+      ],
+      "visits": [
+        {
+          "type": "START",
+          "jobId": "Route Start for vehicle-3",
+          "start": "2024-01-19T00:00:00",
+          "location": {
+            "latitude": 51.2155438,
+            "longitude": 4.4399172
+          },
+          "travelDistanceToNextLocation": 0
+        },
+        {
+          "type": "END",
+          "jobId": "Route End for vehicle-0",
+          "arrival": "2024-01-19T00:00:00",
+          "location": {
+            "latitude": 51.2155438,
+            "longitude": 4.4399172
+          }
+        }
+      ]
+    }
+  ],
+  "unassignedJobs": [
+    {
+      "jobId": "8dqzhLGmDmBVSm1H",
+      "coordinates": {
+        "latitude": 50.9535588,
+        "longitude": 5.2708402
+      }
+    },
+    {
+      "jobId": "2GGR412vBhO6qND6",
+      "coordinates": {
+        "latitude": 50.8788795,
+        "longitude": 4.45758
+      }
+    },
+    {
+      "jobId": "5qTRGMDPnwdX9mym",
+      "coordinates": {
+        "latitude": 51.2222941,
+        "longitude": 4.4666895
+      }
+    },
+    {
+      "jobId": "pbUptVm23p2Z4Jp9",
+      "coordinates": {
+        "latitude": 51.3302922,
+        "longitude": 4.9528374
+      }
+    },
+    {
+      "jobId": "OwR5A0VY7GxmxZIC",
+      "coordinates": {
+        "latitude": 51.3302922,
+        "longitude": 4.9528374
+      }
+    },
+    {
+      "jobId": "MEmc9pVFDGB4F6gq",
+      "coordinates": {
+        "latitude": 50.9524282,
+        "longitude": 4.4199075
+      }
+    },
+    {
+      "jobId": "BuQWK11noN5B2SUf",
+      "coordinates": {
+        "latitude": 51.0770171,
+        "longitude": 3.4650384
+      }
+    },
+    {
+      "jobId": "vKzBQ1o2OIVJZXbX",
+      "coordinates": {
+        "latitude": 51.0149222,
+        "longitude": 4.3064897
+      }
+    },
+    {
+      "jobId": "5fAzRMLwo1QWgTlQ",
+      "coordinates": {
+        "latitude": 51.3302922,
+        "longitude": 4.9528374
+      }
+    },
+    {
+      "jobId": "FQ8R40uPKcMKpG6b",
+      "coordinates": {
+        "latitude": 51.1262653,
+        "longitude": 4.4670892
+      }
+    },
+    {
+      "jobId": "wjMJQIUNkHn146pT",
+      "coordinates": {
+        "latitude": 51.2222941,
+        "longitude": 4.4666895
+      }
+    },
+    {
+      "jobId": "hCnyKYAT8YM2EzwA",
+      "coordinates": {
+        "latitude": 50.9208303,
+        "longitude": 3.6813932
+      }
+    },
+    {
+      "jobId": "FmnK3xYjHpVncyqB",
+      "coordinates": {
+        "latitude": 51.0770171,
+        "longitude": 3.4650384
+      }
+    },
+    {
+      "jobId": "YbkJowde9qc6Y1Nb",
+      "coordinates": {
+        "latitude": 51.0629618,
+        "longitude": 5.275901
+      }
+    },
+    {
+      "jobId": "8ghzJSc5IXUIZd1B",
+      "coordinates": {
+        "latitude": 50.869844,
+        "longitude": 4.1499604
+      }
+    },
+    {
+      "jobId": "VRg27xU95NCWOv6O",
+      "coordinates": {
+        "latitude": 51.4373683,
+        "longitude": 4.4470142
+      }
+    },
+    {
+      "jobId": "Kk879cEjQLEUt1NS",
+      "coordinates": {
+        "latitude": 51.1262653,
+        "longitude": 4.4670892
+      }
+    },
+    {
+      "jobId": "1SDOqLBYnlKloUif",
+      "coordinates": {
+        "latitude": 51.1372225,
+        "longitude": 4.6356542
+      }
+    },
+    {
+      "jobId": "L8nm3cvh8bQC8IbY",
+      "coordinates": {
+        "latitude": 50.8788795,
+        "longitude": 4.45758
+      }
+    },
+    {
+      "jobId": "NGTVSPHkEAN6MJC0",
+      "coordinates": {
+        "latitude": 51.3302922,
+        "longitude": 4.9528374
+      }
+    },
+    {
+      "jobId": "d3IGt3UNwLIyaEFb",
+      "coordinates": {
+        "latitude": 51.3302922,
+        "longitude": 4.9528374
+      }
+    },
+    {
+      "jobId": "3wRuuDogc6G4CIvf",
+      "coordinates": {
+        "latitude": 51.1372225,
+        "longitude": 4.6356542
+      }
+    },
+    {
+      "jobId": "a5DMFj4jhXdCmx18",
+      "coordinates": {
+        "latitude": 50.9208303,
+        "longitude": 3.6813932
+      }
+    },
+    {
+      "jobId": "r9QhZDhzSRGwADV2",
+      "coordinates": {
+        "latitude": 51.0458284,
+        "longitude": 4.4947075
+      }
+    },
+    {
+      "jobId": "3bjEk1JWT69dOx9L",
+      "coordinates": {
+        "latitude": 51.3302922,
+        "longitude": 4.9528374
+      }
+    },
+    {
+      "jobId": "wMOe65TAHRFFpeaG",
+      "coordinates": {
+        "latitude": 50.9208303,
+        "longitude": 3.6813932
+      }
+    },
+    {
+      "jobId": "bGGjhH2XmpSSSTtF",
+      "coordinates": {
+        "latitude": 50.9524282,
+        "longitude": 4.4199075
+      }
+    },
+    {
+      "jobId": "QGkxEDNIBSSFgDyz",
+      "coordinates": {
+        "latitude": 50.9208303,
+        "longitude": 3.6813932
+      }
+    },
+    {
+      "jobId": "A3PayAjqRfS2ETAN",
+      "coordinates": {
+        "latitude": 50.9524282,
+        "longitude": 4.4199075
+      }
+    },
+    {
+      "jobId": "UR77UjNcq3nDdrqG",
+      "coordinates": {
+        "latitude": 50.869844,
+        "longitude": 4.1499604
+      }
+    },
+    {
+      "jobId": "tpxP3I0ueGi61OdS",
+      "coordinates": {
+        "latitude": 51.0770171,
+        "longitude": 3.4650384
+      }
+    },
+    {
+      "jobId": "zZEPRXtAxgpDlljv",
+      "coordinates": {
+        "latitude": 50.869844,
+        "longitude": 4.1499604
+      }
+    },
+    {
+      "jobId": "HT4EWb6ojnA3bXUo",
+      "coordinates": {
+        "latitude": 51.0770171,
+        "longitude": 3.4650384
+      }
+    },
+    {
+      "jobId": "1YztByF5XPcA8F2o",
+      "coordinates": {
+        "latitude": 51.206674,
+        "longitude": 2.9315028
+      }
+    },
+    {
+      "jobId": "7bmAe24S7XAjbmbM",
+      "coordinates": {
+        "latitude": 50.8788795,
+        "longitude": 4.45758
+      }
+    },
+    {
+      "jobId": "msd0MXGEwWJDCfEy",
+      "coordinates": {
+        "latitude": 51.1684497,
+        "longitude": 3.8588267
+      }
+    },
+    {
+      "jobId": "iJN5cn6a6JJ832ni",
+      "coordinates": {
+        "latitude": 51.1372225,
+        "longitude": 4.6356542
+      }
+    },
+    {
+      "jobId": "1U9964RW40BncejZ",
+      "coordinates": {
+        "latitude": 50.869844,
+        "longitude": 4.1499604
+      }
+    },
+    {
+      "jobId": "wsNwQW2fNZaTKVnm",
+      "coordinates": {
+        "latitude": 50.8341421,
+        "longitude": 3.6060018
+      }
+    },
+    {
+      "jobId": "cCfdMb3hUuEyPCfo",
+      "coordinates": {
+        "latitude": 50.9535588,
+        "longitude": 5.2708402
+      }
+    }
+  ],
+  "metaData": {
+    "jobId": "c5d721d4-ce2f-4a7c-8034-43dd7ed420eb",
+    "runtime": 9020,
+    "startTime": [
+      2024,
+      1,
+      19,
+      15,
+      4,
+      38,
+      6729000
+    ],
+    "status": "SOLVED"
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "problem": {
+    "jobs": [
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:5594621",
+        "possibleTimeslots": [
+          {
+            "start": "2023-10-04T08:00",
+            "end": "2023-10-04T17:45"
+          }
+        ],
+        "id": "Visit0",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:665346",
+        "possibleTimeslots": [
+          {
+            "start": "2023-10-04T13:15",
+            "end": "2023-10-04T17:45"
+          }
+        ],
+        "id": "Visit1",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:1428444",
+        "possibleTimeslots": [
+          {
+            "start": "2023-10-04T08:00",
+            "end": "2023-10-04T12:30"
+          }
+        ],
+        "id": "Visit2",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:3779653",
+        "possibleTimeslots": [
+          {
+            "start": "2023-10-04T13:15",
+            "end": "2023-10-04T17:45"
+          }
+        ],
+        "id": "Visit3",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:3695130",
+        "possibleTimeslots": [
+          {
+            "start": "2023-10-04T08:00",
+            "end": "2023-10-04T17:45"
+          }
+        ],
+        "id": "Visit4",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:2126462",
+        "possibleTimeslots": [
+          {
+            "start": "2023-10-04T15:04",
+            "end": "2023-10-04T16:04"
+          }
+        ],
+        "id": "Visit5",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:2057205",
+        "possibleTimeslots": [
+          {
+            "start": "2023-10-04T08:00",
+            "end": "2023-10-04T17:45"
+          }
+        ],
+        "id": "Visit6",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:20237147",
+        "possibleTimeslots": [
+          {
+            "start": "2023-10-04T13:15",
+            "end": "2023-10-04T17:45"
+          }
+        ],
+        "id": "Visit7",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:20932141",
+        "possibleTimeslots": [
+          {
+            "start": "2023-10-04T08:00",
+            "end": "2023-10-04T17:45"
+          }
+        ],
+        "id": "Visit8",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:20421821",
+        "possibleTimeslots": [
+          {
+            "start": "2023-10-04T08:00",
+            "end": "2023-10-04T17:45"
+          }
+        ],
+        "id": "Visit9",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:5476887",
+        "possibleTimeslots": [
+          {
+            "start": "2023-10-04T08:00",
+            "end": "2023-10-04T17:45"
+          }
+        ],
+        "id": "Visit10",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:286403",
+        "possibleTimeslots": [
+          {
+            "start": "2023-10-04T11:25",
+            "end": "2023-10-04T12:25"
+          }
+        ],
+        "id": "Visit11",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:1007422",
+        "possibleTimeslots": [
+          {
+            "start": "2023-10-04T08:00",
+            "end": "2023-10-04T12:30"
+          }
+        ],
+        "id": "Visit12",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:320518",
+        "possibleTimeslots": [
+          {
+            "start": "2023-10-04T08:00",
+            "end": "2023-10-04T12:30"
+          }
+        ],
+        "id": "Visit13",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:2305416",
+        "possibleTimeslots": [
+          {
+            "start": "2023-10-04T08:00",
+            "end": "2023-10-04T12:30"
+          }
+        ],
+        "id": "Visit14",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:1291389",
+        "possibleTimeslots": [
+          {
+            "start": "2023-10-04T08:00",
+            "end": "2023-10-04T12:30"
+          }
+        ],
+        "id": "Visit15",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:4413041",
+        "possibleTimeslots": [
+          {
+            "start": "2023-10-04T15:10",
+            "end": "2023-10-04T16:10"
+          }
+        ],
+        "id": "Visit16",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:4960820",
+        "possibleTimeslots": [
+          {
+            "start": "2023-10-04T08:00",
+            "end": "2023-10-04T17:45"
+          }
+        ],
+        "id": "Visit17",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:303939",
+        "possibleTimeslots": [
+          {
+            "start": "2023-10-04T08:00",
+            "end": "2023-10-04T17:45"
+          }
+        ],
+        "id": "Visit18",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:5665936",
+        "possibleTimeslots": [
+          {
+            "start": "2023-10-04T08:00",
+            "end": "2023-10-04T17:45"
+          }
+        ],
+        "id": "Visit19",
+        "type": "SERVICE"
+      }
+    ],
+    "vehicles": [
+      {
+        "breaks": [
+          {
+            "start": "2023-10-04 12:30",
+            "end": "2023-10-04 13:15"
+          }
+        ],
+        "startLocationId": "BE-VLG:5594621",
+        "shifts": [
+          {
+            "shiftEnd": "2023-10-04 17:45",
+            "shiftStart": "2023-10-04 08:00"
+          }
+        ],
+        "id": "vehicle-0",
+        "endLocationId": "BE-VLG:5594621"
+      },
+      {
+        "breaks": [
+          {
+            "start": "2023-10-04 12:30",
+            "end": "2023-10-04 13:15"
+          }
+        ],
+        "startLocationId": "BE-VLG:665346",
+        "shifts": [
+          {
+            "shiftEnd": "2023-10-04 17:45",
+            "shiftStart": "2023-10-04 08:00"
+          }
+        ],
+        "id": "vehicle-1",
+        "endLocationId": "BE-VLG:665346"
+      }
+    ],
+    "locations": [
+      {
+        "lng": 4.3667156,
+        "id": "BE-VLG:5594621",
+        "lat": 51.33334
+      },
+      {
+        "lng": 3.7681618,
+        "id": "BE-VLG:665346",
+        "lat": 51.0575499
+      },
+      {
+        "lng": 5.2078251,
+        "id": "BE-VLG:1428444",
+        "lat": 51.1505601
+      },
+      {
+        "lng": 4.4684851,
+        "id": "BE-VLG:3779653",
+        "lat": 51.0321702
+      },
+      {
+        "lng": 5.436219,
+        "id": "BE-VLG:3695130",
+        "lat": 50.9298408
+      },
+      {
+        "lng": 4.6648647,
+        "id": "BE-VLG:2126462",
+        "lat": 51.280305
+      },
+      {
+        "lng": 3.3158637,
+        "id": "BE-VLG:2057205",
+        "lat": 51.2100395
+      },
+      {
+        "lng": 2.8933407,
+        "id": "BE-VLG:20237147",
+        "lat": 51.2156998
+      },
+      {
+        "lng": 4.1947439,
+        "id": "BE-VLG:20932141",
+        "lat": 50.9741691
+      },
+      {
+        "lng": 3.5162855,
+        "id": "BE-VLG:20421821",
+        "lat": 50.9911121
+      },
+      {
+        "lng": 3.2018609,
+        "id": "BE-VLG:5476887",
+        "lat": 51.2063105
+      },
+      {
+        "lng": 3.4710781,
+        "id": "BE-VLG:286403",
+        "lat": 50.931012
+      },
+      {
+        "lng": 3.8968499,
+        "id": "BE-VLG:1007422",
+        "lat": 51.1000221
+      },
+      {
+        "lng": 4.5008714,
+        "id": "BE-VLG:320518",
+        "lat": 51.2462221
+      },
+      {
+        "lng": 4.4357467,
+        "id": "BE-VLG:2305416",
+        "lat": 51.4280718
+      },
+      {
+        "lng": 4.381913,
+        "id": "BE-VLG:1291389",
+        "lat": 51.2314204
+      },
+      {
+        "lng": 4.472603,
+        "id": "BE-VLG:4413041",
+        "lat": 51.3926365
+      },
+      {
+        "lng": 4.2417697,
+        "id": "BE-VLG:4960820",
+        "lat": 50.7323984
+      },
+      {
+        "lng": 3.2537763,
+        "id": "BE-VLG:303939",
+        "lat": 50.9911752
+      },
+      {
+        "lng": 2.9837409,
+        "id": "BE-VLG:5665936",
+        "lat": 51.2472084
+      }
+    ],
+    "id": "Route-1"
+  },
+  "generatedWith": "Lucas-1",
+  "version": "v1"
+}

@@ -1,0 +1,255 @@
+{
+  "problem": {
+    "jobs": [
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:3713012",
+        "id": "Visit0",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:634396",
+        "id": "Visit1",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:20371105",
+        "id": "Visit2",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:4435018",
+        "id": "Visit3",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:428575",
+        "id": "Visit4",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:1806463",
+        "id": "Visit5",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:19189700",
+        "id": "Visit6",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:4730169",
+        "id": "Visit7",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:479226",
+        "id": "Visit8",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:3848343",
+        "id": "Visit9",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:1395742",
+        "id": "Visit10",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:20578854",
+        "id": "Visit11",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:3386414",
+        "id": "Visit12",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:3883832",
+        "id": "Visit13",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:5635416",
+        "id": "Visit14",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:2491370",
+        "id": "Visit15",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:1274500",
+        "id": "Visit16",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:5059800",
+        "id": "Visit17",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:372249",
+        "id": "Visit18",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:2436100",
+        "id": "Visit19",
+        "type": "SERVICE"
+      }
+    ],
+    "vehicles": [
+      {
+        "breaks": [
+          {
+            "start": "2023-10-04 12:30",
+            "end": "2023-10-04 13:15"
+          }
+        ],
+        "startLocationId": "BE-VLG:532816",
+        "shifts": [
+          {
+            "shiftEnd": "2023-10-04 17:45",
+            "shiftStart": "2023-10-04 08:00"
+          }
+        ],
+        "id": "vehicle-0",
+        "endLocationId": "BE-VLG:532816"
+      }
+    ],
+    "locations": [
+      {
+        "lng": 4.465048,
+        "id": "BE-VLG:532816",
+        "lat": 51.1493587
+      },
+      {
+        "lng": 3.738586,
+        "id": "BE-VLG:3713012",
+        "lat": 51.044328
+      },
+      {
+        "lng": 3.7245347,
+        "id": "BE-VLG:634396",
+        "lat": 50.9771805
+      },
+      {
+        "lng": 5.4511413,
+        "id": "BE-VLG:20371105",
+        "lat": 51.2254412
+      },
+      {
+        "lng": 4.4967784,
+        "id": "BE-VLG:4435018",
+        "lat": 51.2509217
+      },
+      {
+        "lng": 5.2611782,
+        "id": "BE-VLG:428575",
+        "lat": 50.9457662
+      },
+      {
+        "lng": 3.2223083,
+        "id": "BE-VLG:1806463",
+        "lat": 51.2721031
+      },
+      {
+        "lng": 3.1438028,
+        "id": "BE-VLG:19189700",
+        "lat": 51.1935753
+      },
+      {
+        "lng": 5.1111216,
+        "id": "BE-VLG:4730169",
+        "lat": 51.1849129
+      },
+      {
+        "lng": 4.2995093,
+        "id": "BE-VLG:479226",
+        "lat": 51.0494138
+      },
+      {
+        "lng": 4.1994567,
+        "id": "BE-VLG:3848343",
+        "lat": 51.0658438
+      },
+      {
+        "lng": 3.0437093,
+        "id": "BE-VLG:1395742",
+        "lat": 51.0236979
+      },
+      {
+        "lng": 3.2314315,
+        "id": "BE-VLG:20578854",
+        "lat": 50.8353793
+      },
+      {
+        "lng": 3.2917674,
+        "id": "BE-VLG:3386414",
+        "lat": 51.353909
+      },
+      {
+        "lng": 3.5078395,
+        "id": "BE-VLG:3883832",
+        "lat": 50.9537904
+      },
+      {
+        "lng": 4.2468284,
+        "id": "BE-VLG:5635416",
+        "lat": 50.8700809
+      },
+      {
+        "lng": 4.0334699,
+        "id": "BE-VLG:2491370",
+        "lat": 50.9304165
+      },
+      {
+        "lng": 4.6759302,
+        "id": "BE-VLG:1274500",
+        "lat": 50.9059593
+      },
+      {
+        "lng": 3.346157,
+        "id": "BE-VLG:5059800",
+        "lat": 51.1426963
+      },
+      {
+        "lng": 4.5523572,
+        "id": "BE-VLG:372249",
+        "lat": 50.8894368
+      },
+      {
+        "lng": 4.4095017,
+        "id": "BE-VLG:2436100",
+        "lat": 51.274995
+      }
+    ],
+    "id": "Route-1"
+  },
+  "generatedWith": "Lucas-1",
+  "version": "v1"
+}

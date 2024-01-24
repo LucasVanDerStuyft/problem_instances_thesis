@@ -1,0 +1,74 @@
+{
+  "WorkingShiftAnalysisResult": {
+    "totalWaitingTimeSeconds": 0.0,
+    "workingShiftOfEachDriver": {
+      "VehicleId{value='vehicle-0'}": 20873.000000000
+    },
+    "stddevWorkingShifts": 0.0,
+    "shortestWorkingShift": {
+      "VehicleId{value='vehicle-0'}": 20873.000000000
+    },
+    "longestWorkingShift": {
+      "VehicleId{value='vehicle-0'}": 20873.000000000
+    },
+    "visitsTimeWindowWrong": null,
+    "meanworkingShift": 20873.0
+  },
+  "VisualAttractivenessAnalysisResult": {
+    "meanDistanceToGeographicCenter": {
+      "VehicleId{value='vehicle-0'}": 44703.9518710179
+    },
+    "outliersTTBetweenStops": {
+      "VehicleId{value='vehicle-0'}": [
+        6389.000000000
+      ]
+    },
+    "meanTravelTimeBetweenStops": {
+      "VehicleId{value='vehicle-0'}": 1624.000000000
+    },
+    "convexHullList": {
+      "VehicleId{value='vehicle-0'}": [
+        {
+          "latitude": 51.01835,
+          "longitude": 3.95601
+        },
+        {
+          "latitude": 51.0124239,
+          "longitude": 5.4896649
+        }
+      ]
+    },
+    "visitsCloserToOtherCenterOfGravity": [
+      [
+        [],
+        []
+      ]
+    ],
+    "meanDistanceToConvexHull": {
+      "VehicleId{value='vehicle-0'}": 67023.47321546823
+    }
+  },
+  "RouteCompositionAnalysisResult": {
+    "numberOfRoutes": 1,
+    "stopsLongestRoute": 11,
+    "stopsShortestRoute": 11,
+    "meanStops": 11.0,
+    "stdDevStops": 0.0,
+    "totalDistanceMeters": 399277,
+    "unassignedJobs": [],
+    "failureRate": 0.0,
+    "runTime": 190
+  },
+  "CargoAnalysisResult": {
+    "totalLoadKgs": null,
+    "totalLoadVolume": null,
+    "biggestLoad": null,
+    "biggestLoadVolume": null,
+    "smallestLoad": null,
+    "smallestLoadVolume": null,
+    "meanLoad": 0.0,
+    "meanLoadVolume": 0.0,
+    "stdDevLoad": null,
+    "maxRelativeLoad": null
+  }
+}

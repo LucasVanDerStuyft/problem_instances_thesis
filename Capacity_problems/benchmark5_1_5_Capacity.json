@@ -1,0 +1,174 @@
+{
+  "problem": {
+    "jobs": [
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "KJVvCod29trqKbUK",
+          "locationId": "BE-VLG:397011",
+          "id": "KJVvCod29trqKbUK",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "uFDLEFhtqYSLEZYZ",
+          "locationId": "BE-VLG:682608",
+          "id": "uFDLEFhtqYSLEZYZ",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-0",
+        "type": "SHIPMENT",
+        "cargo": [
+          15,
+          85
+        ]
+      },
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "qnh6GH3ooQ0A5RhR",
+          "locationId": "BE-VLG:736593",
+          "id": "qnh6GH3ooQ0A5RhR",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "oq4ZGSFPghO1pNeO",
+          "locationId": "BE-VLG:454000",
+          "id": "oq4ZGSFPghO1pNeO",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-1",
+        "type": "SHIPMENT",
+        "cargo": [
+          15,
+          85
+        ]
+      },
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "sp0Lsqeg9I1FtSf3",
+          "locationId": "BE-VLG:807435",
+          "id": "sp0Lsqeg9I1FtSf3",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "sTYP0pSfVMKBUbzS",
+          "locationId": "BE-VLG:736593",
+          "id": "sTYP0pSfVMKBUbzS",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-2",
+        "type": "SHIPMENT",
+        "cargo": [
+          5,
+          28
+        ]
+      },
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "7HGhya218YKfr05d",
+          "locationId": "BE-VLG:682608",
+          "id": "7HGhya218YKfr05d",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "xyD20LhTtyyk9YZ9",
+          "locationId": "BE-VLG:736593",
+          "id": "xyD20LhTtyyk9YZ9",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-3",
+        "type": "SHIPMENT",
+        "cargo": [
+          15,
+          85
+        ]
+      },
+      {
+        "delivery": {
+          "duration": 10,
+          "shipmentId": "CxawNbqzTiZCxlWH",
+          "locationId": "BE-VLG:397011",
+          "id": "CxawNbqzTiZCxlWH",
+          "type": "DELIVERY"
+        },
+        "pickup": {
+          "duration": 10,
+          "shipmentId": "H5mHMhwtlUhestSJ",
+          "locationId": "BE-VLG:807435",
+          "id": "H5mHMhwtlUhestSJ",
+          "type": "PICKUP"
+        },
+        "id": "Shipment-4",
+        "type": "SHIPMENT",
+        "cargo": [
+          10,
+          42
+        ]
+      }
+    ],
+    "vehicles": [
+      {
+        "breaks": [
+          {
+            "start": "2023-10-04 12:30",
+            "end": "2023-10-04 13:15"
+          }
+        ],
+        "startLocationId": "BE-VLG:844385",
+        "shifts": [
+          {
+            "shiftEnd": "2023-10-04 17:45",
+            "shiftStart": "2023-10-04 08:00"
+          }
+        ],
+        "id": "vehicle-0",
+        "endLocationId": "BE-VLG:844385",
+        "capacity": [
+          1200,
+          5500
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "lng": 4.7725869,
+        "id": "BE-VLG:844385",
+        "lat": 51.0160094
+      },
+      {
+        "lng": 3.8281845,
+        "id": "BE-VLG:736593",
+        "lat": 50.8127469
+      },
+      {
+        "lng": 3.2040751,
+        "id": "BE-VLG:682608",
+        "lat": 51.2049139
+      },
+      {
+        "lng": 5.2269229,
+        "id": "BE-VLG:454000",
+        "lat": 50.9470043
+      },
+      {
+        "lng": 4.5461668,
+        "id": "BE-VLG:807435",
+        "lat": 50.8967134
+      },
+      {
+        "lng": 5.207136,
+        "id": "BE-VLG:397011",
+        "lat": 51.0969446
+      }
+    ],
+    "id": "Route-1"
+  },
+  "generatedWith": "Lucas-1",
+  "version": "v1"
+}

@@ -1,0 +1,115 @@
+{
+  "problem": {
+    "jobs": [
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:1833123",
+        "possibleTimeslots": [
+          {
+            "start": "2023-10-04T08:00",
+            "end": "2023-10-04T12:30"
+          }
+        ],
+        "id": "Visit0",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:3714315",
+        "possibleTimeslots": [
+          {
+            "start": "2023-10-04T13:15",
+            "end": "2023-10-04T17:45"
+          }
+        ],
+        "id": "Visit1",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:1303177",
+        "possibleTimeslots": [
+          {
+            "start": "2023-10-04T08:00",
+            "end": "2023-10-04T12:30"
+          }
+        ],
+        "id": "Visit2",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:538900",
+        "possibleTimeslots": [
+          {
+            "start": "2023-10-04T13:15",
+            "end": "2023-10-04T17:45"
+          }
+        ],
+        "id": "Visit3",
+        "type": "SERVICE"
+      },
+      {
+        "duration": "10",
+        "locationId": "BE-VLG:508599",
+        "possibleTimeslots": [
+          {
+            "start": "2023-10-04T13:15",
+            "end": "2023-10-04T17:45"
+          }
+        ],
+        "id": "Visit4",
+        "type": "SERVICE"
+      }
+    ],
+    "vehicles": [
+      {
+        "breaks": [
+          {
+            "start": "2023-10-04 12:30",
+            "end": "2023-10-04 13:15"
+          }
+        ],
+        "startLocationId": "BE-VLG:1833123",
+        "shifts": [
+          {
+            "shiftEnd": "2023-10-04 17:45",
+            "shiftStart": "2023-10-04 08:00"
+          }
+        ],
+        "id": "vehicle-0",
+        "endLocationId": "BE-VLG:1833123"
+      }
+    ],
+    "locations": [
+      {
+        "lng": 4.4402366,
+        "id": "BE-VLG:1833123",
+        "lat": 51.3225
+      },
+      {
+        "lng": 3.1415311,
+        "id": "BE-VLG:3714315",
+        "lat": 50.9256324
+      },
+      {
+        "lng": 5.2450282,
+        "id": "BE-VLG:1303177",
+        "lat": 51.1185333
+      },
+      {
+        "lng": 5.3573422,
+        "id": "BE-VLG:538900",
+        "lat": 50.9293239
+      },
+      {
+        "lng": 3.6248639,
+        "id": "BE-VLG:508599",
+        "lat": 50.8336783
+      }
+    ],
+    "id": "Route-1"
+  },
+  "generatedWith": "Lucas-1",
+  "version": "v1"
+}
